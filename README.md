@@ -1,13 +1,13 @@
 # 👩‍💻 Welcome!
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayee0318&count_bg=%2376B8D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayee0318&count_bg=%2376B8D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## About me 💃
 
 
-As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️ 
+As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️
 
 If you want to learn more about my journey or just geek out about the latest tech trends, check out my [LinkedIn](https://www.linkedin.com/in/dayee-lee/) profile and let's connect!🤝
 
@@ -20,7 +20,7 @@ If you want to learn more about my journey or just geek out about the latest tec
 
 
 
-![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=dayee0318&hide_title=true&layout=compact&card_width=400&langs_count=8&exclude_repo=SENG300-Iteration3&hide=html,css)
+![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=dayee0318&hide_title=true&layout=compact&card_width=400&langs_count=8&exclude_repo=SENG300-Iteration3&hide=HLSL,ShaderLab)
 
 My repos are mostly private, but you can always ask me to show some of my projects and walk through!
 
@@ -29,7 +29,7 @@ My repos are mostly private, but you can always ask me to show some of my projec
 
 
 - Developing an 📱 app using <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=fff"/>
-  
+
 - Cracking the LeetCode problems 😁
 
 - Diving into the digital fortress with <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=fff"/> and <img src="https://img.shields.io/badge/ICTC-5E5E5E?style=flat&logo=ICTC&logoColor=fff"/>'s blessing in a cyber security program
