@@ -23,7 +23,7 @@ If you want to learn more about my journey or just geek out about the latest tec
 
 
 
-![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=dayee0318&hide_title=true&layout=compact&card_width=400&langs_count=8&exclude_repo=SENG300-Iteration3&hide=HLSL,ShaderLab)
+![topLangs](https://github-readme-stats-ochre-zeta.vercel.app/api/top-langs/?username=dayee0318&hide_title=true&layout=compact&card_width=400&langs_count=8&exclude_repo=SENG300-Iteration3&hide=HLSL,ShaderLab,HTML)
 
 My repos are mostly private, but you can always ask me to show some of my projects and walk through!
 
