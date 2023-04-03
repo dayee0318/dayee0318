@@ -3,7 +3,7 @@
 
 
 
-<img src="https://img.shields.io/badge/dy0318m@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/> <a href="https://www.notion.so/Dayee-Lee-7ba4e2cffadf4382ad2bf45e8943e9ff" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=Notion&logoColor=fff"/> <a href="https://www.linkedin.com/in/dayee-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff"/>
+<img src="https://img.shields.io/badge/dy0318m@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/> <a href="https://www.notion.so/Dayee-Lee-7ba4e2cffadf4382ad2bf45e8943e9ff" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=Notion&logoColor=fff"/> <a href="https://www.linkedin.com/in/dayee-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff"/> <a href="[https://www.linkedin.com/in/dayee-lee/](https://devpost.com/dy0318m?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=fff"/>
 
 
 ## About me 💃
@@ -17,7 +17,8 @@ If you want to learn more about my journey or just geek out about the latest tec
 
 ## 🛠 Tech Stack 🛠
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=fff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=fff"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=fff"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=fff"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=fff"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=000"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=fff"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=fff"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 
 
 
