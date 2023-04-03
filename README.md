@@ -6,7 +6,7 @@
 
 
 
-<img src="https://img.shields.io/badge/dy0318m@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/> <a href="https://www.notion.so/Dayee-Lee-7ba4e2cffadf4382ad2bf45e8943e9ff" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=Notion&logoColor=fff"/> <a href="https://www.linkedin.com/in/dayee-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff"/> <a href="[https://www.linkedin.com/in/dayee-lee/](https://devpost.com/dy0318m?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=fff"/>
+<img src="https://img.shields.io/badge/dy0318m@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=fff"/> <a href="https://www.notion.so/Dayee-Lee-7ba4e2cffadf4382ad2bf45e8943e9ff" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=Notion&logoColor=fff"/> <a href="https://www.linkedin.com/in/dayee-lee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=fff"/> <a href="https://devpost.com/dy0318m?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=fff"/>
 
 
 ## About me 💃
