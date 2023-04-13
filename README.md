@@ -33,8 +33,6 @@ My repos are mostly private, but you can always ask me to show some of my projec
 ## What am I doing? 🏃‍♀️
 
 
-- Developing an 📱 app using <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=fff"/>
-
 - Cracking the LeetCode problems 😁
 
 - Diving into the digital fortress with <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=fff"/> and <img src="https://img.shields.io/badge/ICTC-5E5E5E?style=flat&logo=ICTC&logoColor=fff"/>'s blessing in a cyber security program
