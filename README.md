@@ -37,11 +37,11 @@ My repos are mostly private, but you can always ask me to show some of my projec
 
 - Diving into the digital fortress with <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=fff"/> and <img src="https://img.shields.io/badge/ICTC-5E5E5E?style=flat&logo=ICTC&logoColor=fff"/>'s blessing in a cyber security program
 
-- Applying for internship/co-op positions 👩‍💻
+- Working as an Information Security Analyst intern 👩‍💻
 
 - Crafting cyber-security charisma as the VP Marketing of WiCyS at the University of Calgary Chapter 👸
-
-- Figuring out Network and OS 🤔
+  
+- VP Event of University of Calgary Blockchain Society 🔗
 
 - Falling in love with GPT-4 😍
 
