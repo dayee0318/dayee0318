@@ -36,6 +36,8 @@ My repos are mostly private, but you can always ask me to show some of my projec
 - Cracking the LeetCode problems 😁
 
 - Diving into the digital fortress with <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=fff"/> and <img src="https://img.shields.io/badge/ICTC-5E5E5E?style=flat&logo=ICTC&logoColor=fff"/>'s blessing in a cyber security program
+  
+- Studying for certificates: Excel, AZ900, SC900, and ISC2-CC!
 
 - Working as an Information Security Analyst intern 👩‍💻
 
