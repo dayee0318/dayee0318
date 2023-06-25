@@ -12,7 +12,7 @@
 ## About me 💃
 
 
-As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️
+As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒, block chain technology🔗, and cloud computing ☁. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️
 
 If you want to learn more about my journey or just geek out about the latest tech trends, check out my [LinkedIn](https://www.linkedin.com/in/dayee-lee/) profile and let's connect!🤝
 
