@@ -12,7 +12,7 @@
 ## About me 💃
 
 
-As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒, block chain technology🔗, and cloud computing ☁. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️
+As a tech-savvy student at the Uiversity of Calgary, I'm currently diving headfirst into the world of Cyber-Security🔒 and cloud computing ☁. I'm obsessed with all things tech-related💻, and I'm on a mission to make the digital world a safer place. 🦸‍♀️
 
 If you want to learn more about my journey or just geek out about the latest tech trends, check out my [LinkedIn](https://www.linkedin.com/in/dayee-lee/) profile and let's connect!🤝
 
@@ -37,13 +37,11 @@ My repos are mostly private, but you can always ask me to show some of my projec
 
 - Diving into the digital fortress with <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=Microsoft&logoColor=fff"/> and <img src="https://img.shields.io/badge/ICTC-5E5E5E?style=flat&logo=ICTC&logoColor=fff"/>'s blessing in a cyber security program
   
-- Studying for certificates: ISC2-CC & CompTIA Security+
+- Studying for certificates: AZ500, CCNA & CompTIA Security+
 
 - Working as an Information Security Analyst intern 👩‍💻
 
 - Crafting cyber-security charisma as the VP Marketing of WiCyS at the University of Calgary Chapter 👸
-  
-- VP Event of University of Calgary Blockchain Society 🔗
 
 - Falling in love with GPT-4 😍
 
@@ -53,7 +51,6 @@ My repos are mostly private, but you can always ask me to show some of my projec
 - I have three dogs, and I go out for walk them 6 times a day everyday! 🐕🐕🐕🚶‍♀️
 - When I'm not studying, you can usually find me playing video games 🎮
 - I'm a big fan of escape rooms 🔐, and I love putting my problem-solving skills to the test.
-- I've been volunteer for 🐢 Turtle Sheltered Workshop, for over 10 years!
 - I love art and design 🎨 so I self-learned <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=fff"/> and <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=fff"/> programs.
 - I can sing the national anthems 🎤🌎🎵 of four different countries! (🇰🇷, 🇨🇦, 🇵🇭, 🇮🇳)
 
